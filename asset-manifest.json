@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/noircss/shahsportfolio/static/css/main.ff2c4157.css",
-    "main.js": "/noircss/shahsportfolio/static/js/main.f15cfc8a.js",
-    "index.html": "/noircss/shahsportfolio/index.html",
-    "main.ff2c4157.css.map": "/noircss/shahsportfolio/static/css/main.ff2c4157.css.map",
-    "main.f15cfc8a.js.map": "/noircss/shahsportfolio/static/js/main.f15cfc8a.js.map"
+    "main.css": "/shahsportfolio/static/css/main.ff2c4157.css",
+    "main.js": "/shahsportfolio/static/js/main.f15cfc8a.js",
+    "index.html": "/shahsportfolio/index.html",
+    "main.ff2c4157.css.map": "/shahsportfolio/static/css/main.ff2c4157.css.map",
+    "main.f15cfc8a.js.map": "/shahsportfolio/static/js/main.f15cfc8a.js.map"
   },
   "entrypoints": [
     "static/css/main.ff2c4157.css",
